@@ -1,0 +1,13 @@
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.deps.json
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.runtimeconfig.json
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.runtimeconfig.dev.json
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.dll
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.csprojAssemblyReference.cache
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.AssemblyInfoInputs.cache
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.AssemblyInfo.cs
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorAssemblyInfo.cache
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorAssemblyInfo.cs
+D:\ENSC\2A\Projet Informatique\PII_up\TripPlanner\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorTargetAssemblyInfo.cache
